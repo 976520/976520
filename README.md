@@ -16,9 +16,12 @@
 <img src="https://img.shields.io/badge/@haensol-7289D9.svg?style=for-the-badge&logo=discord&logoColor=20232a" />
 </a><br>
 <a href="https://www.instagram.com/haensol_/">
-<img src="https://img.shields.io/badge/@haensol__-F91964.svg?style=for-the-badge&logo=instagram&logoColor=20232a" />
+<img src="https://img.shields.io/badge/instagram-F91964.svg?style=for-the-badge&logo=instagram&logoColor=20232a" />
 </a><br>
-<img src="https://img.shields.io/badge/haensol976520@gmail.com-DC4B3E.svg?style=for-the-badge&logo=gmail&logoColor=20232a" />
+<a href="mailto:haensol976520@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=20232a" /></a>
+<br>
+
+
 <br>
 <a herf="https://github.com/976520">
 <img src="https://img.shields.io/badge/976520-white.svg?style=for-the-badge&logo=github&logoColor=20232a" />
