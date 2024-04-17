@@ -18,7 +18,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=976520)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=976520)
 <br><br><br><br>
-**Contact 🔗**
+**🔗 Contact 🔗**
 <br><br>
 <img src="https://img.shields.io/badge/@haensol-7289D9.svg?style=for-the-badge&logo=discord&logoColor=20232a" />
 <br>
