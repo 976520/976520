@@ -17,7 +17,7 @@
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=976520&layout=compact&theme=graywhite) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=976520&layout=compact&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=976520&layout=compact&theme=graywhite&langs_count=8)
 <br><br><br><br>
 **🔗 Contact 🔗**
 <br><br>
