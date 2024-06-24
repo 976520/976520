@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/visual studio-BE96EB.svg?style=for-the-badge&logo=visualstudio&logoColor=20232a" /> <img src="https://img.shields.io/badge/visual studio code-6CA4E5.svg?style=for-the-badge&logo=visualstudiocode&logoColor=20232a" /> <img src="https://img.shields.io/badge/intellij-DE4761.svg?style=for-the-badge&logo=intellijidea&logoColor=20232a" /> <img src="https://img.shields.io/badge/pycharm-22D68D.svg?style=for-the-badge&logo=pycharm&logoColor=20232a" /> <br> <img src="https://img.shields.io/badge/premiere pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=20232a" /> <img src="https://img.shields.io/badge/after effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=20232a" />  <img src="https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=20232a" /> <img src="https://img.shields.io/badge/illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=20232a" /> <img src="https://img.shields.io/badge/blender-EA7600.svg?style=for-the-badge&logo=blender&logoColor=20232a" />
 <br><br><br><br>
 -->
+
 **📊 Stats 📊** 
 <br><br>
 
