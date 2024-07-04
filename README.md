@@ -21,8 +21,8 @@
 **📊 Stats 📊** 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=976520&layout=compact&theme=graywhite) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=976520&layout=compact&theme=graywhite&langs_count=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=976520&layout=compact&theme=github_dark_dimmed) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=976520&layout=compact&theme=github_dark_dimmed&langs_count=10)
 <br><br><br><br>
 **🔗 Contact 🔗**
 <br><br>
