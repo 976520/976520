@@ -5,7 +5,7 @@
 <img src="C:\Users\user\Downloads\image.png">
 <br><br><br><br>
  
-**✏️ Learning Stacks** 
+**✏️ Learning** 
 
 <!--<img src="https://img.shields.io/badge/c-4248A0.svg?style=for-the-badge&logo=c&logoColor=20232a" /> <img src="https://img.shields.io/badge/html-F16529.svg?style=for-the-badge&logo=html5&logoColor=20232a" />--> 
 <img src="https://img.shields.io/badge/javascript-E7D850.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
