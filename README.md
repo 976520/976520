@@ -1,11 +1,11 @@
 <br><br><br><br>
 ![image](https://github.com/976520/976520/assets/123460320/2d350440-c733-4996-b038-fca2fc8d7335)
 <br><br><br><br>
-<div align="center">
+<div align="left">
 <img src="C:\Users\user\Downloads\image.png">
 <br><br><br><br>
  
-**✏️ Learning Stacks ✏️** 
+**✏️ Learning Stacks** 
 
 <!--<img src="https://img.shields.io/badge/c-4248A0.svg?style=for-the-badge&logo=c&logoColor=20232a" /> <img src="https://img.shields.io/badge/html-F16529.svg?style=for-the-badge&logo=html5&logoColor=20232a" /> <img src="https://img.shields.io/badge/javascript-E7D850.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />-->
 <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" /> 
@@ -18,15 +18,16 @@
 <br><br><br><br>
 -->
 
-**📊 Stats 📊** 
+
+**📊 Stats** 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haensol)](https://solved.ac/haensol/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=976520&layout=compact&theme=github_dark_dimmed) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=976520&layout=compact&theme=github_dark_dimmed&langs_count=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=976520&layout=compact&theme=github_dark_dimmed) 
 
 <br><br><br><br>
-**🔗 Contact 🔗**
+**🔗 Contact**
 
 <img src="https://img.shields.io/badge/@haensol-7289D9.svg?style=for-the-badge&logo=discord&logoColor=20232a" />
 <br>
