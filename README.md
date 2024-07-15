@@ -21,9 +21,6 @@
 
 
 **📊 Stats** 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haensol)](https://solved.ac/haensol/)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=976520&layout=compact&theme=github_dark_dimmed&langs_count=10)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=976520&layout=compact&theme=github_dark_dimmed) 
 
