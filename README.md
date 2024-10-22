@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=976520&layout=compact&theme=github_dark_dimmed&langs_count=10) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=976520&layout=compact&theme=github_dark_dimmed&langs_count=12) 
 <!--<br><br><br><br>
 ![image](https://github.com/976520/976520/assets/123460320/2d350440-c733-4996-b038-fca2fc8d7335)
 <br><br><br><br>
