@@ -1,4 +1,6 @@
-<img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" />
+**Learning** 
+
+<img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" /> <img src="https://img.shields.io/badge/spring-7DAB4E.svg?style=for-the-badge&logo=spring&logoColor=20232a" />
 <!--<br><br><br><br>
 ![image](https://github.com/976520/976520/assets/123460320/2d350440-c733-4996-b038-fca2fc8d7335)
 <br><br><br><br>
@@ -12,7 +14,7 @@
 <img src="https://img.shields.io/badge/c-4248A0.svg?style=for-the-badge&logo=c&logoColor=20232a" /> <img src="https://img.shields.io/badge/html-F16529.svg?style=for-the-badge&logo=html5&logoColor=20232a" />
 <img src="https://img.shields.io/badge/javascript-E7D850.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
 <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" /> 
-<img src="https://img.shields.io/badge/css-5795D6.svg?style=for-the-badge&logo=css3&logoColor=20232a" /> <img src="https://img.shields.io/badge/java-C83830.svg?style=for-the-badge&logo=java&logoColor=20232a" /> <img src="https://img.shields.io/badge/spring-7DAB4E.svg?style=for-the-badge&logo=spring&logoColor=20232a" /> <img src="https://img.shields.io/badge/python-49658B.svg?style=for-the-badge&logo=python&logoColor=20232a" /> 
+<img src="https://img.shields.io/badge/css-5795D6.svg?style=for-the-badge&logo=css3&logoColor=20232a" /> <img src="https://img.shields.io/badge/java-C83830.svg?style=for-the-badge&logo=java&logoColor=20232a" />  <img src="https://img.shields.io/badge/python-49658B.svg?style=for-the-badge&logo=python&logoColor=20232a" /> 
 <br><br><br><br>
 
  **⚒️ Learning Tools ⚒️** 
