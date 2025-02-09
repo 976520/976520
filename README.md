@@ -1,6 +1,7 @@
 **Learning** 
 
- <img src="https://img.shields.io/badge/spring-7DAB4E.svg?style=for-the-badge&logo=spring&logoColor=20232a" /> <img src="https://img.shields.io/badge/python-49658B.svg?style=for-the-badge&logo=python&logoColor=20232a" />  <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" />
+<img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" />  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />  <img src="https://img.shields.io/badge/spring-7DAB4E.svg?style=for-the-badge&logo=spring&logoColor=white" />  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+
 <!--<br><br><br><br>
 ![image](https://github.com/976520/976520/assets/123460320/2d350440-c733-4996-b038-fca2fc8d7335)
 <br><br><br><br>
