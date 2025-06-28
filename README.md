@@ -1,6 +1,9 @@
 
   <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=976520&layout=compact&theme=github_dark_dimmed) 
+
+
 <!--<br><br><br><br>
 ![image](https://github.com/976520/976520/assets/123460320/2d350440-c733-4996-b038-fca2fc8d7335)
 <br><br><br><br>
@@ -27,7 +30,6 @@
 **📊 Stats** 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=976520&layout=compact&theme=github_dark_dimmed&langs_count=10)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=976520&layout=compact&theme=github_dark_dimmed) 
 
 <br><br><br><br>
 **🔗 Contact**
