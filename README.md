@@ -1,5 +1,5 @@
 
-  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/react native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" />  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=976520&layout=compact&theme=github_dark_dimmed) 
 
@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/c-4248A0.svg?style=for-the-badge&logo=c&logoColor=20232a" /> <img src="https://img.shields.io/badge/html-F16529.svg?style=for-the-badge&logo=html5&logoColor=20232a" />
 <img src="https://img.shields.io/badge/javascript-E7D850.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
-<img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" /> 
+
 <img src="https://img.shields.io/badge/css-5795D6.svg?style=for-the-badge&logo=css3&logoColor=20232a" /> <img src="https://img.shields.io/badge/java-C83830.svg?style=for-the-badge&logo=java&logoColor=20232a" />  
 <br><br><br><br>
 
