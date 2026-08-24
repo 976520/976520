@@ -73,6 +73,7 @@
 </details>
 
 <details>
+  
 <summary>es-toolkit</summary>
 
 - `26-03-17` **PR** | [fix(keyBy): export keyBy from es-toolkit/map ](https://github.com/toss/es-toolkit/pull/1650)
@@ -80,14 +81,18 @@
 </details>
 
 <details>
+  
 <summary>fast_float</summary>
 - `26-02-04` **PR** | [Add more boundary test cases for double and float parsing](https://github.com/fastfloat/fast_float/pull/366)
+  
 </details>
 
 
 <details>
+  
 <summary>query</summary>
 - `25-12-31` **PR** | [fix(eslint-plugin-query): declare typescript as optional peer dependency](https://github.com/TanStack/query/pull/10007)
+  
 </details>
 
 <br/>
