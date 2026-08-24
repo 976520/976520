@@ -25,6 +25,7 @@
 <details>
 <summary>typescript-eslint</summary>
 
+- `25-07-28` **PR** | [fix(eslint-plugin): \[no-floating-promises\] allowForKnownSafeCalls now supports function names (fixes #11423)](https://github.com/typescript-eslint/typescript-eslint/pull/11430)
 - `26-03-20` **PR** | [fix(eslint-plugin): \[no-unnecessary-condition\] use assignability checks in checkTypePredicates](https://github.com/typescript-eslint/typescript-eslint/pull/12147)
 - `26-06-19` **PR** | [chore(typescript-eslint): add rule-performance agent skill](https://github.com/typescript-eslint/typescript-eslint/pull/12436)
 - `26-06-22` **PR** | [fix(eslint-plugin): \[no-unnecessary-type-assertion\] parenthesize object literal at left edge of expression statement](https://github.com/typescript-eslint/typescript-eslint/pull/12443)
