@@ -22,8 +22,8 @@
 <br/>
 
 ## 🚀 Contributions
-
-### typescript-eslint
+<details>
+<summary>typescript-eslint</summary>
 
 - `26-03-20` **PR** | [fix(eslint-plugin): \[no-unnecessary-condition\] use assignability checks in checkTypePredicates](https://github.com/typescript-eslint/typescript-eslint/pull/12147)
 - `26-06-19` **PR** | [chore(typescript-eslint): add rule-performance agent skill](https://github.com/typescript-eslint/typescript-eslint/pull/12436)
@@ -59,8 +59,10 @@
 - `26-07-24` **PR** | [fix(eslint-plugin): \[no-useless-default-assignment\] don't report defaults used by other overloads](https://github.com/typescript-eslint/typescript-eslint/pull/12607)
 - `26-07-27` **PR** | [fix(eslint-plugin): \[class-literal-property-style\] preserve type annotations and don't drop decorators](https://github.com/typescript-eslint/typescript-eslint/pull/12617)
 - `26-08-20` **PR** | [chore: register `createRuleTesterWithTypes` as a rule tester constructor](https://github.com/typescript-eslint/typescript-eslint/pull/12742)
+</details>
 
-### nest
+<details>
+<summary>nest</summary>
 
 - `26-02-21` **PR** | [test(sample-20): add e2e and unit tests for caching functionality](https://github.com/nestjs/nest/pull/16406)
 - `26-02-21` **PR** | [test(sample-28): add unit and e2e tests for sse](https://github.com/nestjs/nest/pull/16409)
@@ -68,18 +70,25 @@
 - `26-07-17` **Issue** | [ServerRedis passes swapped 'pub'/'sub' client type to event listeners registered before listen()](https://github.com/nestjs/nest/issues/17330)
 - `26-07-17` **PR** | [fix(microservices): correct pub/sub client type in redis listeners](https://github.com/nestjs/nest/pull/17331)
 - `26-07-18` **Issue** | [MiddlewareBuilder skips overlapping routes because it reuses stateful global-flag regexes](https://github.com/nestjs/nest/issues/17334)
+</details>
 
-### es-toolkit
+<details>
+<summary>es-toolkit</summary>
 
 - `26-03-17` **PR** | [fix(keyBy): export keyBy from es-toolkit/map ](https://github.com/toss/es-toolkit/pull/1650)
 
-### fast_float
+</details>
 
+<details>
+<summary>fast_float</summary>
 - `26-02-04` **PR** | [Add more boundary test cases for double and float parsing](https://github.com/fastfloat/fast_float/pull/366)
+</details>
 
-### query
 
+<details>
+<summary>query</summary>
 - `25-12-31` **PR** | [fix(eslint-plugin-query): declare typescript as optional peer dependency](https://github.com/TanStack/query/pull/10007)
+</details>
 
 <br/>
 
