@@ -78,6 +78,7 @@
 <summary>es-toolkit</summary>
 
 - `26-03-17` **PR** | [fix(keyBy): export keyBy from es-toolkit/map ](https://github.com/toss/es-toolkit/pull/1650)
+- `26-08-28` **PR** | [fix(plugin): make skills portable when installed individually](https://github.com/toss/es-toolkit/pull/2054)
 
 </details>
 
