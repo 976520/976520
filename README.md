@@ -60,6 +60,7 @@
 - `26-07-24` **PR** | [fix(eslint-plugin): \[no-useless-default-assignment\] don't report defaults used by other overloads](https://github.com/typescript-eslint/typescript-eslint/pull/12607)
 - `26-07-27` **PR** | [fix(eslint-plugin): \[class-literal-property-style\] preserve type annotations and don't drop decorators](https://github.com/typescript-eslint/typescript-eslint/pull/12617)
 - `26-08-20` **PR** | [chore: register `createRuleTesterWithTypes` as a rule tester constructor](https://github.com/typescript-eslint/typescript-eslint/pull/12742)
+- `26-09-07` **PR** | [fix(typescript-estree): clarify the parserOptions.project error message](https://github.com/typescript-eslint/typescript-eslint/pull/12817)
 </details>
 
 <details>
